@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frank\\OneDrive\\\u684C\u9762\\\u706B\u7BAD\u968A17th\\backend\\hw\\Ch2_HW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39454EB2-084D-4E99-A02D-F3B8FADB14BC}|Ch2_HW\\Ch2_HW.csproj|c:\\users\\frank\\onedrive\\\u684C\u9762\\\u706B\u7BAD\u968A17th\\backend\\hw\\ch2_hw\\ch2_hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39454EB2-084D-4E99-A02D-F3B8FADB14BC}|Ch2_HW\\Ch2_HW.csproj|solutionrelative:ch2_hw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frank\\OneDrive\\\u684C\u9762\\\u706B\u7BAD\u968A17th\\backend\\hw\\Ch2_HW\\Ch2_HW\\Program.cs",
+              "RelativeDocumentMoniker": "Ch2_HW\\Program.cs",
+              "ToolTip": "C:\\Users\\frank\\OneDrive\\\u684C\u9762\\\u706B\u7BAD\u968A17th\\backend\\hw\\Ch2_HW\\Ch2_HW\\Program.cs",
+              "RelativeToolTip": "Ch2_HW\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:04:48.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
